@@ -1,2 +1,2 @@
 # gitProject
-test
+obsstudio_lua_script 目录下是obsstudio的lua脚本
